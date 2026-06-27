@@ -1,0 +1,11 @@
+# RoboVentors
+
+> Robotics education company for students 8–18. Three consecutive Avishkaar National gold medals. Hands-on courses and projects in robotics, electronics, AI, and aerospace.
+
+## Pages
+
+- [Home](/): Overview of RoboVentors — programs, track record, and stats.
+- [About](/about): Our story, timeline, and results.
+- [Courses](/courses): Robotics Foundation, Advanced Robotics, and Competition Prep tracks.
+- [Projects](/projects): CubeSat satellites, humanoid robots, smart homes, and flying machines.
+- [Contact](/contact): Reach out about enrollment, fees, and group discounts.
